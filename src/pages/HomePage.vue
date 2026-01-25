@@ -7,5 +7,8 @@ import { RouterLink } from 'vue-router'
     <li>
       <RouterLink to="/link">AtomicLink</RouterLink>
     </li>
+    <li>
+      <RouterLink to="/button">AtomicButton</RouterLink>
+    </li>
   </ul>
 </template>
